@@ -8,7 +8,7 @@ Audio              Realtek ALC897
 Wi-Fi              None
 Storage            WD_BLACK SN770 1TB
 Monitor            FHD 1920x1080
-BIOS Verison       H5.8G
+BIOS Verison       H5.6G
 macOS Version      Ventura 13.7.2
 OpenCore Version   1.0.3
 ```
