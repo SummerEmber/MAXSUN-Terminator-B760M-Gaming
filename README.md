@@ -7,8 +7,8 @@ Graphics           AMD Radeon RX480/580/6600XT 8GB
 Audio              Realtek ALC897
 Wi-Fi              None
 Storage            WD_BLACK SN770 1TB
-Monitor            FHD 1920x1080
+Monitor            UHD 3840x2160
 BIOS Verison       H5.6G
-macOS Version      Sequoia 15.7
-OpenCore Version   1.0.5
+macOS Version      Sequoia 15.7.7
+OpenCore Version   1.0.7
 ``` 
