@@ -160,6 +160,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>WhateverGreen.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/WhateverGreen</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -250,13 +268,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>WhateverGreen.kext</string>
+				<string>RadeonSensor.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/WhateverGreen</string>
+				<string>Contents/MacOS/RadeonSensor</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -275,24 +293,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCRadeonGPU</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>RadeonSensor.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/RadeonSensor</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -578,6 +578,10 @@
 				<string>agdpmod=pikera</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
+				<key>csr-active-config</key>
+				<data>AwgAAA==</data>
+				<key>prev-lang:kbd</key>
+				<string>zh-Hans:252</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
