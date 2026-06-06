@@ -581,6 +581,17 @@
 	<dict>
 		<key>Add</key>
 		<dict>
+			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+			<dict>
+				<key>boot-args</key>
+				<string>agdpmod=pikera -amfipass ipc_control_port_options=0</string>
+				<key>run-efi-updater</key>
+				<string>No</string>
+				<key>csr-active-config</key>
+				<data>AwgAAA==</data>
+				<key>prev-lang:kbd</key>
+				<string>zh-Hans:252</string>
+			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>revpatch</key>
@@ -589,17 +600,6 @@
 				<integer>1</integer>
 				<key>revcpuname</key>
 				<string>Intel Core i5-12490F</string>
-			</dict>
-			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<dict>
-				<key>boot-args</key>
-				<string>agdpmod=pikera amfi=0x80 ipc_control_port_options=0</string>
-				<key>run-efi-updater</key>
-				<string>No</string>
-				<key>csr-active-config</key>
-				<data>AwgAAA==</data>
-				<key>prev-lang:kbd</key>
-				<string>zh-Hans:252</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
