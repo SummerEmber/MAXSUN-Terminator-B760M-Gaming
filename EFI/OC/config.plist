@@ -433,7 +433,7 @@
 			<key>PowerTimeoutKernelPanic</key>
 			<false/>
 			<key>ProvideCurrentCpuInfo</key>
-			<false/>
+			<true/>
 			<key>SetApfsTrimTimeout</key>
 			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
@@ -624,13 +624,13 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K9362704NFHDDA8</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data></data>
 			<key>SpoofVendor</key>
-			<false/>
+			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
@@ -673,9 +673,9 @@
 			<key>ChassisVersion</key>
 			<string>Mac-27AD2F918AE68F61</string>
 			<key>FirmwareFeatures</key>
-			<data>ZvCv/QgAAAA=</data>
+			<data></data>
 			<key>FirmwareFeaturesMask</key>
-			<data>f////wgAAAA=</data>
+			<data></data>
 			<key>PlatformFeature</key>
 			<integer>0</integer>
 			<key>ProcessorType</key>
