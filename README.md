@@ -9,6 +9,6 @@ Wi-Fi              None
 Storage            WD_BLACK SN770 1TB
 Monitor            UHD 3840x2160
 BIOS Verison       H5.6G
-macOS Version      Sequoia 15.7.7
-OpenCore Version   1.0.7
+macOS Version      Tahoe 26.7.1
+OpenCore Version   1.0.8
 ``` 
