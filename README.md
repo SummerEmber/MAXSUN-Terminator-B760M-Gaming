@@ -6,7 +6,7 @@ CPU                Intel Core i5-12490F
 Memory             SK hynix DDR4 3600MHz 16Gx2
 Graphics           AMD Radeon RX480/580/6600XT 8GB
 Audio              Realtek ALC897
-Wi-Fi              None
+Wi-Fi              Intel AX203
 Storage            WD_BLACK SN770 1TB
 Monitor            UHD 3840x2160
 BIOS Verison       H5.6G
