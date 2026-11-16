@@ -10,7 +10,7 @@ Wi-Fi              Intel AX203
 Storage            WD_BLACK SN770 1TB
 Monitor            UHD 3840x2160
 BIOS Verison       H5.6G
-macOS Version      Tahoe 26.7.2
+macOS Version      Tahoe 26.7.3
 OpenCore Version   1.0.8
 ``` 
 ## BIOS Settings
